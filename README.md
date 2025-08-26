@@ -14,4 +14,4 @@ Mobile Developer | 4+ years experience | Flutter, React Native, Kotlin, Node.js,
 
 ## 📫 Contact
 - Email: zilullah792@gmail.com  
-- LinkedIn: [linkedin.com/in/zilullah](https://linkedin.com/in/zilullah)
+- LinkedIn: [linkedin](https://linkedin.com/in/zilullah](https://www.linkedin.com/in/zilullah-nazir-hadi-9243561aa/))
