@@ -3,7 +3,7 @@ Software Engineer | 5+ years experience | Flutter, React Native, Kotlin, Node.js
 
 ## 🛠 Tech Stack
 - **Mobile**: Flutter, React Native, Kotlin
-- **Frontend: React
+- **Frontend**: React
 - **Backend**: Node.js (TypeScript), Laravel, PHP
 - **Database**: MySQL, PostgreSQL
 - **Others**: Git, Clean Architecture, REST API, FHIR
