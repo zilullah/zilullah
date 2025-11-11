@@ -1,8 +1,9 @@
 # Hi, I'm Zilullah 👋
-Mobile Developer | 4+ years experience | Flutter, React Native, Kotlin, Node.js, Laravel
+Software Engineer | 5+ years experience | Flutter, React Native, Kotlin, Node.js, Laravel, React
 
 ## 🛠 Tech Stack
 - **Mobile**: Flutter, React Native, Kotlin
+- **Frontend: React
 - **Backend**: Node.js (TypeScript), Laravel, PHP
 - **Database**: MySQL, PostgreSQL
 - **Others**: Git, Clean Architecture, REST API, FHIR
